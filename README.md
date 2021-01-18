@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=hwholiday&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwholiday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
