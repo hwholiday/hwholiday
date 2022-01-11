@@ -5,7 +5,6 @@
 - 📫 How to reach me: heweiholiday@gmail.com
 - 📫 How to reach me: QQ 3355168235
 - 📫 How to reach me: WECHAT HW_loner
-[![WECHAT](https://s4.ax1x.com/2022/01/11/7ZRIYD.jpg)]
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=hwholiday&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
