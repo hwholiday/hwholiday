@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on DDD,Service mesh
 - 🌱 I’m currently learning golang,k8s
 - 📫 How to reach me: heweiholiday@gmail.com
-- 📫 contact me: WECHAT [HW_loner](https://s4.ax1x.com/2022/01/11/7ZRIYD.jpg)
-- 📫 contact me: QQ [3355168235](https://s4.ax1x.com/2022/01/11/7ZXbct.jpg)
+- 📫 contact me: WECHAT  HW_loner
+- 📫 contact me: QQ  3355168235
 
 
 
