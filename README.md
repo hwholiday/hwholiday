@@ -8,4 +8,6 @@
 
 
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=hwholiday&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=hwholiday&count_private=true&show_icons=true&theme=vue&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwholiday&layout=compact&theme=vue&hide=html,css,kotlin,dockerfile,perl,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
