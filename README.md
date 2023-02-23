@@ -1,4 +1,5 @@
-### Hi there , I'm [Hwholiday](https://github.com/hwholiday) 👋
+### Hi there , I'm [Hwholiday](https://github.com/hwholiday) 👋  
+
 
 - 🔭  I’m currently working on software development work 
 - 🌱  I’m currently learning golang,rust,k8s ...
@@ -9,7 +10,9 @@
 - 🚀  This is my personal blog [www.hwholiday.com](https://www.hwholiday.com/)
 
 
-*Nice to meet you and best wishes for you, my friends :)*
+*Nice to meet you and best wishes for you, my friends :)* 
+
+![](https://komarev.com/ghpvc/?username=hwholiday&style=for-the-badge)
 
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=hwholiday&count_private=true&show_icons=true&theme=vue&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
